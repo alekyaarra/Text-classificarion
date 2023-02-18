@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(162, 162, 117);
+}
+#models{
+    margin: 34px;
+    /* display: flex; */
+    width: 600px;
+    margin-left: 110px;
+}
+#models .box{ 
+    border: 2px solid black;
+    padding: 34px;
+    margin: 50px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+}
+
+#models .box img{ 
+   height: 180px;
+   margin: auto;
+   display: block;
+}
+
+#models .box p{
+    font-family: 'Bree Serif', serif;
+
+} 
+#prediction-container{
+    margin-top: 100px;
+    
+}
+.h-primary{
+    /* font-family: 'Bree Serif', serif; */
+    font-size: 3rem;
+    padding: 12px;
+    /* margin-left: 300px; */
+}
+.center{
+    text-align: center;
+}
+#input{
+    margin: 34px;
+    /* display: flex; */
+    width: 600px;
+    margin-left: 800px;
+    margin-top: -1600px;
+}
+#input .box{ 
+    border: 2px solid black;
+    padding: 34px;
+    margin: 290px 55px;
+    border-radius: 28px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+}
+
